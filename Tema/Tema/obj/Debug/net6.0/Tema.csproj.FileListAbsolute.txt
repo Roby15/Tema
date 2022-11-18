@@ -1,0 +1,15 @@
+/Users/roby/RiderProjects/Tema/Tema/bin/Debug/net6.0/Tema
+/Users/roby/RiderProjects/Tema/Tema/bin/Debug/net6.0/Tema.deps.json
+/Users/roby/RiderProjects/Tema/Tema/bin/Debug/net6.0/Tema.runtimeconfig.json
+/Users/roby/RiderProjects/Tema/Tema/bin/Debug/net6.0/Tema.dll
+/Users/roby/RiderProjects/Tema/Tema/bin/Debug/net6.0/Tema.pdb
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/Tema.csproj.AssemblyReference.cache
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/Tema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/Tema.AssemblyInfoInputs.cache
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/Tema.AssemblyInfo.cs
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/Tema.csproj.CoreCompileInputs.cache
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/Tema.dll
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/refint/Tema.dll
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/Tema.pdb
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/Tema.genruntimeconfig.cache
+/Users/roby/RiderProjects/Tema/Tema/obj/Debug/net6.0/ref/Tema.dll
